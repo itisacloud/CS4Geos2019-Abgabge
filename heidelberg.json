@@ -1,0 +1,16 @@
+{
+	"datetimeframe":"2016-10-31T00:00:00Z/2019-10-31T00:00:00Z",
+	"osm":true,
+	"osm_query":{
+		"keys": ["admin_level"],
+        "values": ["9"],
+        "types": ["polygon"],
+		"time": "20190101"},
+	"json_path": "C:\\Users\\cleme\\Desktop\\ndvi\\heidelberg.geojson",
+	"buffer distance":0,
+	"collection":"landsat-8-l1",
+	"property":["eo:cloud_cover<30"],
+	"show_plots":true,
+	"generate_geojson":true,
+	"output_path":"C:\\Users\\cleme\\Desktop\\ndvi\\output"
+}
