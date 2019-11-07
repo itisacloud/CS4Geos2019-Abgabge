@@ -8,7 +8,7 @@ external libaries:
 1. rasterio (install via: conda install rasterio or pip install rasterio)
 2. shapely  (install via: conda install shapely or pip install shapely)
 3. pyproj (install via: pip install pyproj)
-4. satsearch (install via: pip install rasterio)
+4. satsearch (install via: pip install satsearch) https://github.com/sat-utils/sat-search
 5. numpy (install via: conda install numpy or pip install numpy)
 6. matplotlib (install via : conda install matplotlib or pip install matplotlib)
 
