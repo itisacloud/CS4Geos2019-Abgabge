@@ -50,8 +50,6 @@ if __name__ == '__main__':
         print(error)
         sys.exit()
     assert os.path.exists(JSON_PATH), "Json file does not exist"
-    assert
-    assert
 
     try:
         FEATURES = load_geojson_features_to_dict(JSON_PATH)
